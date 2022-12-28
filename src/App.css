@@ -1,0 +1,9 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-image: url(../public/fundo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow: auto;
+}
